@@ -1,3 +1,3 @@
 # esercitazioni
 
-## esercitazione 01:paython
+## esercitazione 01:python
