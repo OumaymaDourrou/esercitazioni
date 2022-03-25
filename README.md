@@ -16,3 +16,12 @@
 
 ## esercitazione 05:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione05/Audit_classification_easy.ipynb)
 
+
+
+## sonar ipnyb 06:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione06/1_Sonar.ipynb)
+
+
+## 22_Intro_Pipeline.ipynb 06:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione06/22_Intro_Pipeline.ipynb)
+
+
+## 23_Titanic_Cross 06:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione06/23_Titanic_Cross.ipynb)
