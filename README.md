@@ -24,4 +24,12 @@
 ## 22_Intro_Pipeline.ipynb 06:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione06/22_Intro_Pipeline.ipynb)
 
 
-## 23_Titanic_Cross 06:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione06/23_Titanic_Cross.ipynb)
+## 19_solut_tips.ipynb 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/19_solut_tips.ipynb)
+
+## 30_RE_intro.ipynb 07 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/30_RE_intro.ipynb)
+
+## NLP PART1.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/NLP PART1.pdf)
+
+## RE_1.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_1.pdf)
+
+## RE_2.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_1.pdf)
