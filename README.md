@@ -32,4 +32,4 @@
 
 ## RE_1.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_1.pdf)
 
-## RE_2.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_1.pdf)
+## RE_2.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_2.pdf)
