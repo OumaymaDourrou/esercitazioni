@@ -29,3 +29,9 @@
 ## 30_RE_intro.ipynb 07 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/30_RE_intro.ipynb)
 
 
+## 26.0_Spacy.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/28_WordCloud.ipynb)
+## 28_WordCloud.ipynb 08:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/30_RE_intro.ipynb)
+## 3_Loan.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/3_Loan.ipynb)
+## Es_RE_sol.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/Es_RE_sol.ipynb)
+
+
