@@ -28,8 +28,4 @@
 
 ## 30_RE_intro.ipynb 07 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/30_RE_intro.ipynb)
 
-## NLP PART1.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/NLP PART1.pdf)
 
-## RE_1.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_1.pdf)
-
-## RE_2.pdf 07:python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione07/RE_2.pdf)
