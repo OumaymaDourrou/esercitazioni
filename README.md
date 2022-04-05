@@ -34,4 +34,7 @@
 ## 3_Loan.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/3_Loan.ipynb)
 ## Es_RE_sol.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione08/Es_RE_sol.ipynb)
 
+## Es_RE_sol.ipynb 08 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/02_Clean_re.ipynb)
+
+
 
