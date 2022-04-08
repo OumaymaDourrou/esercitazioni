@@ -36,5 +36,10 @@
 
 ## 02_Clean_re.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/02_Clean_re.ipynb)
 
+## 01_NLP_MultiClassification_20newsgroups.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/01_NLP_MultiClassification_20newsgroups.ipynb)
+## 03_NLP_BClassification_BOW.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/03_NLP_BClassification_BOW.ipynb)
+## 04_NLP_Pipeline_NLTK.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/04_NLP_Pipeline_NLTK.ipynb)
+## 04_NLP_Pipeline_SpaCy.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/04_NLP_Pipeline_SpaCy.ipynb)
+
 
 
