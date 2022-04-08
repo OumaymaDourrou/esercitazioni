@@ -41,5 +41,7 @@
 ## 04_NLP_Pipeline_NLTK.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/04_NLP_Pipeline_NLTK.ipynb)
 ## 04_NLP_Pipeline_SpaCy.ipynb 09 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione09/04_NLP_Pipeline_SpaCy.ipynb)
 
+## 3_esercizi_NLP.txt 10 :python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OumaymaDourrou/esercitazioni/blob/main/Esercitazione10/3_esercizi_NLP.txt)
+
 
 
